@@ -1,0 +1,90 @@
+Quản Lý Sản Phẩm
+CRUD
+Create
+Read
+Update
+Delete
+
+Tạo Models (Tạo Entities - thực thể) - số nhiều
+
+Dùng HDD để tránh mất dữ liệu:
+HDD có thể phục hồi nếu xóa
+SSD khó phục hồi nếu xóa
+
+HDD cài + xóa thõa mái
+SSD cài + xóa file nhiều -> dễ hư
+
+QLSP:
+Product
+cài 
+ef core
+ef core sql
+ef core design (k cần cài cũng được)
+ef core tool
+
+Project Blazor Server
+
+Thịnh thích gắn vô hơn
+sau này nếu cần thì dùng ssd rời
+
+hdd là đĩa -> dễ bị hư nếu di chuyển trong khi đang hoạt động
+
+hdd rời -> NAS
+
+PC => gắn ổ cứng dễ hơn
+1 SSD 500GB
+2 HDD 500GB + 2TB
+
+
+đi tìm ori
+...pixel... 2D
+cờ vua, cờ caro
+
+laptop thì nên dùng ssd dạng nvme (thường sẽ lắp như vậy)
+hdd 2TB
+ổ chứa win: ssd/ssd nvme
+
+5059 gần 100 triệu, 90 triệu
+
+8 giờ tối hằng ngày
+
+thử dùng email sinh viên có đuôi edu
+
+.net là dùng entity framework???
+
+Alt + F4 thoát chương trình
+
+data seed
+
+fpt software
+2 chi nhánh ở ĐN
+ở Tam Kỳ có 1 chi nhánh
+
+project cá nhân (thử việc): windows form, wpf
+project bự:
+PM chia task:
+- c# (core mvc)
+- sửa giao diện: html css
+- test (manual test, test bằng tay: viết test case, chụp màn hình app) - unit test
+- tool c# phục vụ cho dự án (1 tới 2 bạn)
+
+thuê backend
+làm backend + frontend
+
+QA: đảm bảo chất lượng (mấy chị về cuối cùng trong phòng ban, trong công ty, giao tiếp với khách hàng, bàn giao công việc cho khách hàng)
+Q&A: dịch từ Nhật -> Việt và ngược lại
+Tester -> cho dev làm lại task nếu có vấn đề (khách hàng/tester)
+=> kết thúc dự án
+bên kh xảy ra vấn đề:
+ai đã làm task đó có vấn đề thì làm lại
+nhờ leader gánh hộ (dễ tính)
+cử 1 nhóm đi công tác bên Nhật (kh) => cài project cho 100 máy
+
+in the end
+
+https://www.linkedin.com/pulse/domain-driven-design-understanding-modular-layers-joel-okoromi/?trackingId=ZfF%2F%2Bm2o8dn0dvU7VLZYIg%3D%3D
+
+
+
+
+
